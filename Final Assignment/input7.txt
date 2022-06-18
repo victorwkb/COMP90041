@@ -1,0 +1,25 @@
+Y
+demo.dat
+members.csv
+bills.csv
+4
+2
+3
+1
+L
+Lucky_3
+2
+1 2 3 4 a b c
+100008
+100009
+1
+12 15 3 8 9 10 17
+Y
+100009
+100010
+0
+N
+4
+5
+Y
+demo.dat
