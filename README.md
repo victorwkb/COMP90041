@@ -1,3 +1,2 @@
-# COMP90041: Object Oriented Programming and Software Development
-
-This repository contains the projects that have been completed within the course which is based on Java
+# Unimelb-Notes
+This repository contains all the notes for subjects that I have completed as well as notes for other subjects supplemented by my CS friends that have helped me develop stronger fundamentals in CS
